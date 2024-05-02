@@ -10,9 +10,7 @@
 Не отображаются товары в блоке Dota2
 Priority - Middle
 Chorme - Version 124.0.6367.62 (Official Build) (arm64)
-User: 
-login - "umarist14"
-password - "909090B!"
+
 Dev - https://cs.money/csgo/trade/
 1.Авторизоваться
 2.В разделе Trade в блоке You get кликнуть на иконоку Dota2
@@ -24,9 +22,7 @@ Dev - https://cs.money/csgo/trade/
 Сортировка по "любимым" не сбрасывается
 Priority - middle
 Chorme - Version 124.0.6367.62 (Official Build) (arm64)
-User: 
-login - "umarist14"
-password - "909090B!"
+
 Dev - https://cs.money/csgo/trade/
 1.Авторизоваться
 2.В разделе Trade в блоке "You get" навести стрелку на товар
@@ -39,9 +35,7 @@ Dev - https://cs.money/csgo/trade/
 Сортировка не сбрасывается после сброса маркера "любимые"
 Priority - middle
 Chorme - Version 124.0.6367.62 (Official Build) (arm64)
-User: 
-login - "umarist14"
-password - "909090B!"
+
 Dev - https://cs.money/csgo/trade/
 1.Авторизоваться
 2.В разделе Trade в блоке "You get" навести стрелку на товар
@@ -54,9 +48,7 @@ Dev - https://cs.money/csgo/trade/
 Кнопка "Refresh favorites" не отображается в окне сортировки
 Priority - middle
 Chorme - Version 124.0.6367.62 (Official Build) (arm64)
-User: 
-login - "umarist14"
-password - "909090B!"
+
 Dev - https://cs.money/csgo/trade/
 1.Авторизоваться
 2.В разделе Trade в блоке "You get" навести стрелку на товар
@@ -68,9 +60,7 @@ Dev - https://cs.money/csgo/trade/
 Кнопки "Clear all", "Favorites" в окне сортировки отображается на плейсхолдере
 Priority - Low
 Chorme - Version 124.0.6367.62 (Official Build) (arm64)
-User: 
-login - "umarist14"
-password - "909090B!"
+
 Dev - https://cs.money/csgo/trade/
 1.Авторизоваться
 2.Кликнуть на иконку сердечком
